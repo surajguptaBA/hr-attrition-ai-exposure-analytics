@@ -6,6 +6,12 @@ Which roles are losing employees to attrition AND exposed to AI-driven disruptio
 Most attrition dashboards stop at "who's leaving." This project goes a step further — cross-referencing attrition data with AI exposure scores by job role to flag where a company faces *compounded* workforce risk: high turnover in roles that are also the most likely to be automated.
 
 ![Risk Matrix Dashboard]<img width="1170" height="666" alt="image" src="https://github.com/user-attachments/assets/49d54f51-ff21-46d5-a048-c7238783863b" />
+Attrition Deep Dive - 
+
+
+
+
+
 
 
 
@@ -27,6 +33,7 @@ Power BI Dashboard (3 pages)
 - A live Excel Data Table for what-if salary-impact modeling under different AI exposure scenarios
 - A weighted Decision Matrix (min-max normalized, rank-scored) prioritizing industries for reskilling investment
 - A built-in data-quality profile sheet — row counts, missing-value checks, unique-value validation
+- Excel Dashboard - <img width="1916" height="973" alt="image" src="https://github.com/user-attachments/assets/97faa970-6b71-45a7-9d9b-9a820fcbf1c1" />
 
 ---
 
